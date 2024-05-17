@@ -1,0 +1,59 @@
+body{
+
+ background-color:rgba(147, 152, 218, 0.979);   
+ color: rgb(243, 161, 199);
+text-align: center;
+ color: rgb(97, 25, 85);
+}
+
+a{
+    color: #19136e;
+}
+
+.navbar{
+    background-color: aliceblue;
+    color: pink;
+    text-decoration:navy;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+# about-img{
+width: 50%;
+}
+   
+.menu{
+display: flex;
+justify-content: center;
+margin: 0 auto;
+padding: 0 30px;
+align-items: center;
+max-width: 1000px;
+
+
+
+}
+
+.item img{
+    max-width: 100%; ;
+ width: 500px;   
+ margin: 20px;
+ padding: 20px;
+    
+
+
+}
+.item{
+    margin: 20px;
+
+}
+
+
+
+    #navbar a:hover{
+color: rgb(179, 52, 52);
+
+    }
